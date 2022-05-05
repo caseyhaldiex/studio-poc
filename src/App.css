@@ -2,6 +2,22 @@
   text-align: center;
 }
 
+.img-size {
+  width: 600px;
+  height: 600px;
+  border: solid 1px #000;
+}
+
+.size-class {
+  display: "flex";
+  height: 100%;
+  width: 100%;
+  border: "solid 1px #ddd";
+  background-image: url("https://cdn.shopify.com/s/files/1/1365/2497/products/Rainbow-unicorn-mask_1024x.png?v=1553633323");
+  background-position: center;
+  background-size: cover;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
